@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>text_key</key>
+    <value>Hello,Android</value>
+  </entry>
+  <entry>
+    <key>background_color</key>
+    <value>#000000</value>
+  </entry>
+</defaults>
